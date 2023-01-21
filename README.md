@@ -1,7 +1,5 @@
 <h1 align="center"> Habits </h1>
 
-<img src=".github/preview.jpg">
-
 
 ## About the project:
  -    Habits is a project created to mark what you do on a daily basis for a week or month.
