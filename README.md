@@ -1,8 +1,6 @@
 <h1 align="center"> Habits </h1>
 
-<p align="center">
-  <img src=".github/preview.jpg" width="100%">
-</p>
+<img src=".github/preview.jpg">
 
 
 ## About the project:
